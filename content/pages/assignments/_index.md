@@ -1,0 +1,21 @@
+---
+content_type: page
+title: Assignments
+uid: 985edc67-81d5-1662-a145-c0b65acb738b
+---
+
+The assignments listed below are in addition to reading the assigned texts for each session. See the [Readings]({{< baseurl >}}/pages/readings) section.
+
+| SEMANA (WEEK) | TAREA (HOMEWORK) |
+| --- | --- |
+| Primera | [Preguntas guía: Semana 1 (PDF)]({{< baseurl >}}/resources/mit21g_s01s15_tarea1) |
+| Segunda |  {{< br >}}{{< br >}} [Preguntas guía: Semana 2 (PDF)]({{< baseurl >}}/resources/mit21g_s01s15_tarea2) {{< br >}}{{< br >}} Mira [la colección](http://www.moma.org/collection/artists/4707?locale=en) del museo MOMA sobre José Gudalupe Posada y el video sobre su vida y obra para saber más sobre él. {{< br >}}{{< br >}} Gobierno del Estado de Aguascalientes. "[Video José Guadalupe Posada. Version Larga](https://youtube.com/watch?v=sYdynppHjec)." January 15, 2013. YouTube. Accessed on July 28, 2015.  {{< br >}}{{< br >}}  |
+| Tercera |  {{< br >}}{{< br >}} [Preguntas guía: Semana 3 (PDF)]({{< baseurl >}}/resources/mit21g_s01s15_tarea3) {{< br >}}{{< br >}} Investiga quiénes componen este grupo de pintores mexicanos y selecciona una o dos pinturas de alguno de ellos que te haya parecido interesantes. Imprime o trae la imagen a clase para compartirla con tus compañeros. Toma los datos de la pintura que vas a mostrar a la clase (autor, título, año). {{< br >}}{{< br >}}  |
+| Cuarta |  {{< br >}}{{< br >}} Investiga quiénes componen este grupo de pintores mexicanos y selecciona una o dos pinturas de alguno de ellos que te haya parecido interesantes. Imprime o trae la imagen a clase para compartirla con tus compañeros. Toma los datos de la pintura que vas a mostrar a la clase (autor, título, año). {{< br >}}{{< br >}} Ver la película _los olvidados_. {{< br >}}{{< br >}}  |
+| Quinta |  {{< br >}}{{< br >}} Ver el video de el grupo Café Tacuba "[Las batallas](https://www.youtube.com/watch?v=h-nWcL8ET9I)." {{< br >}}{{< br >}} bbbarca. "[Las Batallas Café Tabuca](https://youtube.com/watch?v=h-nWcL8ET9I)." Marcy 29, 2010. YouTube. Accessed July 28, 2015.  {{< br >}}{{< br >}}  |
+| Sexta |  {{< br >}}{{< br >}} Ver la película _Tlatelolco, verano del 68 (Tlatelolco, Summer of 68)_. {{< br >}}{{< br >}} Jorge Castro. _[Tlatelolco Verano del 68](http://www.youtube.com/watch?v=FCRT5MBN_hE)_. December 2, 2013. YouTube. Accessed July 28, 2015. {{< br >}}{{< br >}}  |
+| Séptima | [Instrucciones para el debate (PDF)]({{< baseurl >}}/resources/mit21g_s01s15_debate_prep) |
+| Octava | Spring break recess. |
+| Novena |  {{< br >}}{{< br >}} Escuchar de José Trigo, "Mi ciudad" y de el grupo Café Tacuba, La chilanga banda. {{< br >}}{{< br >}} Julien Mondragón. "[Mi Ciudad - Guadalupe Trigo](https://youtube.com/watch?v=ZNDaDi2x1PA&feature=youtu.be)." January 24, 2011. YouTube. Accessed July 28, 2015.  {{< br >}}{{< br >}} WarnerMusicMexico. "[Café Tacuba - Chilanga Banda (Video Oficial)](https://youtube.com/watch?v=bKjn26agAEs&feature=youtu.be)." February 18, 2014. YouTube. Accessed July 28, 2015.  {{< br >}}{{< br >}}  |
+| Décima |  {{< br >}}{{< br >}} Ver 3 videos cortos: {{< br >}}{{< br >}} osobabas0804. "[Tienda De Raya](https://www.youtube.com/watch?v=Fz2tIwVoX0w&feature=youtu.be)." February 6, 2012. YouTube. Accessed July 28, 2015.  {{< br >}}{{< br >}} Esquizofrenia TV. "[Monsi en el Metro. PARTE 1 Así la Libro 2002](https://www.youtube.com/watch?v=Yf5oUdGxfO8&feature=youtu.be)." June 29, 2010. YouTube. Accessed July 28, 2015.  {{< br >}}{{< br >}} ———. "[Monsi en el Metro. PARTE 2 Así la Libro 2002](https://www.youtube.com/watch?v=8zCKSiOAPRs&feature=youtu.be)." June 29, 2010. YouTube. Accessed July 28, 2015.  {{< br >}}{{< br >}}  |
+| Onceava |  {{< br >}}{{< br >}} Ver los cortometrajes de Patricia Riggen "Lindo y Querido." y de Rodrígo García "La 7th y Alvarado." {{< br >}}{{< br >}} Azael Mexico. "[Lindo y Querido de Patricia Riggen](http://vimeo.com/27229241)." 2012. Vimeo. Accessed July 28, 2015. {{< br >}}{{< br >}} Céline Virapin. "[La 7th Street y Alvarado - Rodrigo Garcia](https://www.youtube.com/watch?v=5CTMoygNOJQ&feature=youtu.be)." January 2, 2014. YouTube. Accessed July 28, 2015.  {{< br >}}{{< br >}}
